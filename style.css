@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: goldenrod;
+}
+
+#calculator {
+    margin: 150px;
+    padding: 100px;
+    border: 1px solid black;
+    max-width: 400px;
+    color: yellowgreen;
+}
